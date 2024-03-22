@@ -1,0 +1,118 @@
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\appsettings.json
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.exe
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.deps.json
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.runtimeconfig.json
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.pdb
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.AssemblyReference.cache
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\Project_PRN211_SE1729.Form1.resources
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\Project_PRN211_SE1729.Login.resources
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh__Prọect.Properties.Resources.resources
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.GenerateResource.cache
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.AssemblyInfoInputs.cache
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.AssemblyInfo.cs
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.CoreCompileInputs.cache
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.CopyComplete
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\refint\15_VuNamAnh_ Prọect.dll
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.pdb
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.genruntimeconfig.cache
+F:\Project_PRN211_SE1729\Project_PRN211_SE1729\obj\Debug\net6.0-windows\ref\15_VuNamAnh_ Prọect.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\appsettings.json
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.exe
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.deps.json
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.runtimeconfig.json
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\15_VuNamAnh_ Prọect.pdb
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Humanizer.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.AssemblyReference.cache
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\Project_PRN211_SE1729.Form1.resources
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\Project_PRN211_SE1729.Login.resources
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh__Prọect.Properties.Resources.resources
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.GenerateResource.cache
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.GeneratedMSBuildEditorConfig.editorconfig
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.AssemblyInfoInputs.cache
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.AssemblyInfo.cs
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.CoreCompileInputs.cache
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.csproj.CopyComplete
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\refint\15_VuNamAnh_ Prọect.dll
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.pdb
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\15_VuNamAnh_ Prọect.genruntimeconfig.cache
+F:\15_VuNamAnh_Prọect\15_VuNamAnh_Prọect\obj\Debug\net6.0-windows\ref\15_VuNamAnh_ Prọect.dll
